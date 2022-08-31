@@ -1,0 +1,15 @@
+D:\CSharp\Second_program\bin\Debug\net6.0\Second_program.exe
+D:\CSharp\Second_program\bin\Debug\net6.0\Second_program.deps.json
+D:\CSharp\Second_program\bin\Debug\net6.0\Second_program.runtimeconfig.json
+D:\CSharp\Second_program\bin\Debug\net6.0\Second_program.dll
+D:\CSharp\Second_program\bin\Debug\net6.0\Second_program.pdb
+D:\CSharp\Second_program\obj\Debug\net6.0\Second_program.csproj.AssemblyReference.cache
+D:\CSharp\Second_program\obj\Debug\net6.0\Second_program.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Second_program\obj\Debug\net6.0\Second_program.AssemblyInfoInputs.cache
+D:\CSharp\Second_program\obj\Debug\net6.0\Second_program.AssemblyInfo.cs
+D:\CSharp\Second_program\obj\Debug\net6.0\Second_program.csproj.CoreCompileInputs.cache
+D:\CSharp\Second_program\obj\Debug\net6.0\Second_program.dll
+D:\CSharp\Second_program\obj\Debug\net6.0\refint\Second_program.dll
+D:\CSharp\Second_program\obj\Debug\net6.0\Second_program.pdb
+D:\CSharp\Second_program\obj\Debug\net6.0\Second_program.genruntimeconfig.cache
+D:\CSharp\Second_program\obj\Debug\net6.0\ref\Second_program.dll
